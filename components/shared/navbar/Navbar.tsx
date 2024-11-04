@@ -13,7 +13,7 @@ const Navbar = async () => {
             <li>Home</li>
           </Link>
           <Link href="/adminops">
-            <li>Home</li>
+            <li>Admin</li>
           </Link>
         </div>
         <div className="flex gap-6 items-center">
